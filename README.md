@@ -22,3 +22,5 @@ Report and colab book uploaded showing my work.
 
 
 Along with PRID NET model i also tried MIR-Net and DCE-Net Model . i attached colab books of both of them u can see work and results.
+
+NOTE: if due to some reason my script is not working plz do required chanegs in main file and run it , i tested it in collab and it was working fine.
